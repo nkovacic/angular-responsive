@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": false,
+        "lib": ["es2015", "es2015.iterable", "dom"],
+        "removeComments": false,
+        "sourceMap": true
+    },
+    "compileOnSave": false,
+    "files": [
+        "dev/index.ts",     
+        "src/angular-responsive.d.ts",
+        "src/angular-responsive.module.ts"
+    ],
+    "include": [
+        "node_modules/@types/**/*"
+    ],
+    "version": "2.5.3"
+}

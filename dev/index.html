@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <base href="/">
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>
+            Angular Responsive
+        </title>
+    </head>
+    <body ng-controller="MainController as vm">
+        <div class="container">
+            <div responsive-if="mobile">
+                Visible only on 450px to 769
+            </div>
+            <div responsive-if="tablet">
+                Visible only on 769 to 992
+            </div>
+            <div responsive-if="desktop">
+                Visible only on 992 to 1200
+            </div>
+            <div responsive-if="large">
+                Visible only on 1200 to 1440
+            </div>
+            <div responsive-if="extraLarge">
+                Visible only on 1440 to infinite
+            </div>
+            <div>
+                Current breakpoint {{vm.currentBreakpoint}}
+            </div>
+        </div>
+        <script src="http://localhost:8088/webpack-dev-server.js"></script>
+    </body>
+</html>
