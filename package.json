@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "author": "Niko Kovačič <niko.kovacic2@gmail.com>",
     "title": "Angular Touchspin",
-    "description": "A input spinner component for Bootstrap 3 and angular",
+    "description": "AngularJS directive that shows/hides content depending on the provided breakpoints. Features also a expressive service for fine tuning your responsive design.",
     "repository": {
         "type": "git",
         "url": "https://github.com/nkovacic/angular-responsive.git"

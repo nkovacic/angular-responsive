@@ -1,5 +1,5 @@
 /*!
-* angular-responsive JavaScript Library v1.8.3
+* angular-responsive JavaScript Library v1.0.0
 *
 * @license MIT
 *

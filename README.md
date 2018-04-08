@@ -4,9 +4,6 @@
 [![NPM Release](https://img.shields.io/npm/v/angular-responsive.svg?style=flat-square)](https://www.npmjs.org/package/angular-responsive)
 [![NPM Monthly Downloads](https://img.shields.io/npm/dm/angular-responsive.svg?style=flat-square)](https://www.npmjs.org/package/angular-responsive)
 
-
-The goal is to provide the same API than the original one but without jQuery and using all the angular power.
-
 <!---
 ## Demo
 
