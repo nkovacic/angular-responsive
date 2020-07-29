@@ -23,7 +23,7 @@
     "types": "./src/angular-responsive.d.ts",
     "license": "MIT",
     "dependencies": {
-        "angular": "~1.5"
+        "angular": "~1.8"
     },
     "devDependencies": {
         "babel": "5.8.23",
