@@ -85,9 +85,8 @@ export class ResponsiveConfig implements IResponsiveConfigProvider, ng.IServiceP
                     value: 1200
                 }
             ];
-        }
-
-
+        }        
+        this.setBreakpoints(breakpoints);
     }
     public setBreakpoints(breakpoints: Array<IResponsiveBreakpoint>) {
         if (!this.breakpointsObject) {
