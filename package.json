@@ -1,6 +1,6 @@
 {
     "name": "angular-responsive",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Niko Kovačič <niko.kovacic2@gmail.com>",
     "title": "Angular Touchspin",
     "description": "AngularJS directive that shows/hides content depending on the provided breakpoints. Features also a expressive service for fine tuning your responsive design.",
